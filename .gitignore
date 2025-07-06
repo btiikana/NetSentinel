@@ -1,4 +1,4 @@
-# Byte-compiled / cache files
+# Byte-compiled files
 __pycache__/
 *.py[cod]
 *.pyo
@@ -15,8 +15,9 @@ logs/
 # GeoLite2 database
 data/GeoLite2-City.mmdb
 
-# IDE and system files
+# IDE/editor/system clutter
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
+
