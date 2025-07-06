@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Logs and runtime data
+logs/
+*.log
+*.csv
+
+# GeoLite2 database
+data/GeoLite2-City.mmdb
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
