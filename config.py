@@ -3,3 +3,4 @@ DETECTION_WINDOW = 2
 
 # Number of packets in that time window that will trigger detection
 FLOOD_THRESHOLD = 50
+SAFE_IPS_FILE = "safe_ips.txt"
